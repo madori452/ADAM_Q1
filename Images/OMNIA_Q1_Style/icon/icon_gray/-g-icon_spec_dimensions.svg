@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/gray/-g-icon_spec_dimensions</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/gray/-g-icon_spec_dimensions" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-7-Copy-17" stroke="#9B9B9B" cx="21" cy="21" r="19.5"></circle>
+        <g id="Group" transform="translate(17.000000, 13.000000)" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round">
+            <polygon id="Rectangle-4-Copy" points="7.61538462 3.38461538 11 0 11 7.61538462 7.61538462 11"></polygon>
+            <rect id="Rectangle-4" x="0" y="3.38461538" width="7.61538462" height="7.61538462"></rect>
+            <polygon id="Rectangle-4-Copy-2" points="3.38461538 0 11 0 7.61538462 3.38461538 0 3.38461538"></polygon>
+        </g>
+        <path d="M28.5,20.5 L35.5,20.5" id="Line" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M10.9262872,30.006966 L17.4063395,24" id="Line-Copy-2" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M20.5,6 L20.5,13" id="Line-Copy" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round"></path>
+        <polyline id="Triangle-2" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round" transform="translate(11.809974, 29.173470) rotate(-136.000000) translate(-11.809974, -29.173470) " points="9.13671745 30.8442554 11.8099739 27.5026848 11.8099739 27.5026848 14.4832304 30.8442554"></polyline>
+    </g>
+</svg>

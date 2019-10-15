@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/gray/-g-icon_spec_product_compatibility</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="18" cy="18" r="18"></circle>
+    </defs>
+    <g id="icon/gray/-g-icon_spec_product_compatibility" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-7-Copy-17" stroke="#9B9B9B" cx="21" cy="21" r="19.5"></circle>
+        <g id="Group-2" transform="translate(3.000000, 3.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Oval-7-Copy-17"></g>
+            <g id="Group" mask="url(#mask-2)" stroke="#9B9B9B">
+                <g transform="translate(-5.000000, 6.000000)">
+                    <rect id="Rectangle" x="16.5" y="0.5" width="13" height="23" rx="2"></rect>
+                    <path d="M20,2 C20,2.55228475 20.4477153,3 21,3 L25,3 C25.5522847,3 26,2.55228475 26,2 L27,2 C27.5522847,2 28,2.44771525 28,3 L28,21 C28,21.5522847 27.5522847,22 27,22 L19,22 C18.4477153,22 18,21.5522847 18,21 L18,3 C18,2.44771525 18.4477153,2 19,2 L20,2 Z" id="Combined-Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <rect id="Rectangle-Copy" x="32.5" y="0.5" width="13" height="23" rx="2"></rect>
+                    <rect id="Rectangle-Copy" x="32.5" y="2.5" width="13" height="19" rx="2"></rect>
+                    <rect id="Rectangle-Copy-2" x="0.5" y="0.5" width="13" height="23" rx="2"></rect>
+                    <rect id="Rectangle-Copy-2" x="2.5" y="2.5" width="9" height="19" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

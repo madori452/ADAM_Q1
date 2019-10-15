@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/gray/-g-icon_spec_warranty</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/gray/-g-icon_spec_warranty" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-7-Copy-17" stroke="#9B9B9B" cx="21" cy="21" r="19.5"></circle>
+        <path d="M10,12.5649228 C13.1477476,12.5649228 16.824865,11.3766152 21.0313521,9 C25.1366764,11.3766152 28.7928924,12.5649228 32,12.5649228 C32,20.3009471 32,19.5188014 32,24.5032321 C32,29.4876627 23.3775524,35 21.0481913,35 C18.7188303,35 10,29.4876627 10,24.5032321 C10,19.5188014 10,20.3009471 10,12.5649228 Z" id="Rectangle-6" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M13,14.7422483 C15.289271,14.7422483 17.9635382,13.8281655 21.0228015,12 C24.0084919,13.8281655 26.6675581,14.7422483 29,14.7422483 C29,20.6930362 29,20.0913857 29,23.9255631 C29,27.7597405 21.8474997,31.8709901 21.0350482,31.8709901 C20.2225968,31.8709901 13,27.7597405 13,23.9255631 C13,20.0913857 13,20.6930362 13,14.7422483 Z" id="Rectangle-6" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round"></path>
+        <text id="3" font-family="DINPro-Medium, DINPro" font-size="10" font-weight="400" line-spacing="10" fill="#9B9B9B">
+            <tspan x="18" y="26">3</tspan>
+        </text>
+    </g>
+</svg>

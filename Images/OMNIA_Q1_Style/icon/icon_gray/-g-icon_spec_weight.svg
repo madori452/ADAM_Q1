@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/gray/-g-icon_spec_weight</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/gray/-g-icon_spec_weight" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-7-Copy-17" stroke="#9B9B9B" cx="21" cy="21" r="19.5"></circle>
+        <circle id="Oval" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round" cx="21" cy="26" r="5"></circle>
+        <path d="M25.1439399,28.3578133 C23.9837674,27.5042839 22.5507746,27 21,27 C19.4916778,27 18.0947771,27.4770523 16.9519492,28.2885056" id="Oval" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M12,18 L30,18 L30,30 C30,32.7614237 27.7614237,35 25,35 L17,35 C14.2385763,35 12,32.7614237 12,30 L12,18 Z" id="Rectangle-7" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M12,12 L30,12 L30,12 C30,13.1045695 29.1045695,14 28,14 L14,14 C12.8954305,14 12,13.1045695 12,12 Z" id="Rectangle-7-Copy" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round"></path>
+        <g id="Group" transform="translate(19.000000, 14.000000)" stroke="#9B9B9B" stroke-linecap="square">
+            <path d="M3,4 L3,0" id="Line-3"></path>
+            <path d="M1,4 L1,0" id="Line-3-Copy"></path>
+        </g>
+        <path d="M11,10 L31,10" id="Line-4" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="M21,26.8317801 L22.8342099,24" id="Path-5" stroke="#9B9B9B" stroke-linecap="round" stroke-linejoin="round"></path>
+    </g>
+</svg>

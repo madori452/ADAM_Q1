@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/gray/-g-icon_spec_output_Interface</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icon/gray/-g-icon_spec_output_Interface" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <circle id="Oval-7-Copy-17" stroke="#9B9B9B" cx="21" cy="21" r="19.5"></circle>
+        <g id="Group" transform="translate(10.000000, 10.000000)" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M17,5 L21,5 C21.5522847,5 22,5.44771525 22,6 L22,10.4138216 C22,11.3623087 21.2310993,12.1312094 20.2826121,12.1312094 L20.2791459,14.001853 C20.2781239,14.5534133 19.8307089,15 19.2791476,15 L18.7142857,15 C18.162001,15 17.7142857,14.5522847 17.7142857,14 L17.7142857,12.1312094 L17.7142857,12.1312094 C16.7675119,12.1312094 16,11.3636976 16,10.4169237 L16,6 C16,5.44771525 16.4477153,5 17,5 Z" id="Rectangle" stroke="#9B9B9B"></path>
+            <rect id="Rectangle-5" stroke="#979797" x="16.8571429" y="1" width="4.28571429" height="4"></rect>
+            <rect id="Rectangle-8" stroke="#979797" x="0" y="0" width="11" height="17"></rect>
+            <path d="M19,14.919412 L19,21 C19,22.1045695 18.1045695,23 17,23 L7,23 C5.8954305,23 5,22.1045695 5,21 L5,17.1097064" id="Rectangle-8-Copy" stroke="#979797"></path>
+            <polygon id="Path-2" stroke="#979797" points="4.48581776 4 6.6245217 4 5.54393879 7.91915119 7.68715947 7.91915119 4.20642301 14 5.0791952 9.39826 3 9.39826"></polygon>
+        </g>
+    </g>
+</svg>
